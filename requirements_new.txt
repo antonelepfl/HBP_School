@@ -1,0 +1,12 @@
+-i https://bbpteam.epfl.ch/repository/devpi/simple
+
+jupyter
+matplotlib
+numpy
+pandas
+seaborn
+
+# BBP packages
+bluepy>=0.12.5
+connectome-tools>=0.2.7
+voxcell>=2.5
